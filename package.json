@@ -1,0 +1,18 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "yarn parcel src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.1.0",
+    "parcel": "^2.0.0-nightly.481",
+    "postcss": "^8.2.1",
+    "tailwindcss": "^2.0.2"
+  }
+}
